@@ -6,6 +6,9 @@ h1
 {
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .Orange-color
 {
 color: orange;
@@ -14,7 +17,7 @@ color: orange;
 {
     color: black;
 }
-section
+.flex-container
 {
     display: flex;
     margin-bottom: 150px;
@@ -47,4 +50,13 @@ font-weight: 700;
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.Expocon
+{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
 }
